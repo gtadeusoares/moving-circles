@@ -4,4 +4,4 @@ This is a mini game where you can try to "cross the road". If you get hit by one
 # Instructions
 Use the arrow keys to move
 # Website
-https://gtadeusoares.github.io/moving-circles/
+To open the web application, click this link: https://gtadeusoares.github.io/moving-circles/
