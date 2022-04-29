@@ -5,7 +5,7 @@ This is a mini game where you can try to "cross the road". If you get hit by one
 # Instructions
 Use the arrow keys to move.
 # Future Improvements
-Separate the JavaScript into a new file. 
+Separate the JavaScript and CSS into their own separate files. 
 
 Create one function to update all circles simultaneously. 
 # License
